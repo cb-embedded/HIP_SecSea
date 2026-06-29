@@ -27759,7 +27759,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6247cbf1-9e80-42ad-8308-590bbe8f5307")
-		(property "Reference" "L5"
+		(property "Reference" "ANT0"
 			(at 350.52 153.67 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27887,7 +27887,7 @@
 		(instances
 			(project "badge_secsea_V1_1"
 				(path "/7540cf5d-38f8-4890-995a-94ee8b2f9fbe"
-					(reference "L5")
+					(reference "ANT0")
 					(unit 1)
 				)
 			)
