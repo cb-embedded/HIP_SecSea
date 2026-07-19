@@ -19075,7 +19075,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "018e8d48-05b1-48af-bf04-045f934e9fa4")
 		(property "Reference" "TP7"
@@ -21020,7 +21020,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "1394dfbf-0c60-4f9b-9b93-91c8f566ea1e")
 		(property "Reference" "TP4"
@@ -21436,6 +21436,17 @@
 			)
 		)
 		(property "LCSC Part #" "C223811"
+			(at 208.28 278.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
 			(at 208.28 278.13 0)
 			(hide yes)
 			(show_name no)
@@ -23825,7 +23836,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "336a4750-ce6d-4b29-b40e-f34b347a812f")
 		(property "Reference" "TP2"
@@ -25423,6 +25434,17 @@
 			)
 		)
 		(property "LCSC Part #" "C223811"
+			(at 208.28 293.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
 			(at 208.28 293.37 0)
 			(hide yes)
 			(show_name no)
@@ -28469,7 +28491,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "67b7c2fb-ca2b-4184-804a-77cd057eef63")
 		(property "Reference" "TP3"
@@ -28671,6 +28693,17 @@
 			)
 		)
 		(property "LCSC Part #" "C94599"
+			(at 229.87 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "-90"
 			(at 229.87 217.17 0)
 			(hide yes)
 			(show_name no)
@@ -29122,7 +29155,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "6fbce074-5999-4fba-8a8d-822a58e4b9cc")
 		(property "Reference" "TP5"
@@ -30339,7 +30372,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "7f8b1b80-2b75-430f-bf0f-dc13012ed6c2")
 		(property "Reference" "TP8"
@@ -30582,7 +30615,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "8517e4b1-c4b4-49c0-87f2-9b17c4a051bc")
 		(property "Reference" "TP1"
@@ -32076,7 +32109,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98ba9ecc-2322-4dc0-ab21-326a0fc70b1e")
@@ -32344,6 +32377,17 @@
 			)
 		)
 		(property "Supplier Part" "C2927688"
+			(at 264.16 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "90"
 			(at 264.16 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -34833,7 +34877,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "af9fac80-024a-47d6-bbe4-68f8de9dbe75")
 		(property "Reference" "TP6"
@@ -35415,7 +35459,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "b6fc197d-fa34-4b57-884a-bfb57c03df7b")
 		(property "Reference" "TP9"
@@ -35505,7 +35549,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp no)
 		(uuid "b7093115-f3e6-4948-a4a6-ecb54684ce46")
 		(property "Reference" "TP10"
@@ -41610,6 +41654,17 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 294.64 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "8"
 			(uuid "a73cfaa6-2c78-41df-b2d3-b6e277fb99ce")
 		)
@@ -42278,6 +42333,16 @@
 		(property "LCSC Part #" "C2040"
 			(at 119.38 139.7 0)
 			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "-90"
+			(at 119.38 139.7 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

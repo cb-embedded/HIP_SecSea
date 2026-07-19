@@ -76,24 +76,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "net_conflict|67000000|112350000|1dfe2b2e-65c8-4625-8579-103527a0230f|00000000-0000-0000-0000-000000000000",
-          "Tie switch casing to GND, to prevent delamination"
-        ],
-        [
-          "net_conflict|67000000|112350000|2d092de3-2d18-41fb-ac8f-840cc57ded5b|00000000-0000-0000-0000-000000000000",
-          "Tie switch casing to GND, to prevent delamination"
-        ],
-        [
-          "net_conflict|67000000|112350000|95eb1b4b-0ced-4f77-bfea-c124cec2a873|00000000-0000-0000-0000-000000000000",
-          "Tie switch casing to GND, to prevent delamination"
-        ],
-        [
-          "net_conflict|67000000|112350000|db3bc321-2349-40a8-b7ce-c6a43a743672|00000000-0000-0000-0000-000000000000",
-          "Tie switch casing to GND, to prevent delamination"
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
