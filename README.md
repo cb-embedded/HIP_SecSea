@@ -26,10 +26,10 @@ This version is based on the V1.1 design by @chris_cannes. The following changes
 - [ ] **Replace C21 and C26 — 220pF X7R on RF path**: TI reference design specifies NP0/C0G for these positions. Replace with Murata [`GRM1555C1H221JA01D`](https://www.lcsc.com/product-detail/C71693.html) (C0G, 220pF, 50V, 0402, LCSC C71693). Current part [`0402B221K500NT`](https://www.lcsc.com/product-detail/C1530.html) (FH, LCSC C1530, X7R) deviates from reference design; do not second-guess NP0 in an RF path.
 - [ ] **Verify crystal load capacitors C17, C18 (27pF)**: X2 specifies 15pF load. CC1101 datasheet gives Cparasitic ≈ 2.5pF typical. Effective load = 27/2 + 2.5 = 16pF — 1pF above target, acceptable. Current 27pF value is correct; no change needed unless crystal frequency trim is required.
 
-- Use tented vias;
+- [ ] Use tented vias;
+- [ ] TODO: Changer pour antenne 868MHz (Meilleure efficacité vs petite taille de PCB), (si simple à changer).
+- [ ] Prod entre 5 et 10.
 
-- TODO: Changer pour antenne 868MHz (Meilleure efficacité vs petite taille de PCB), (si simple à changer).
+## Production Preview JLCPCB
 
-- Signaux leds dans bottom: ![alt text](image.png)
-
-- Prod entre 5 et 10.
+See [JLCPCB Pictures in this folder](KiCad_src_V1_2/production_preview)
