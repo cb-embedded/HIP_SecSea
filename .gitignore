@@ -1,2 +1,4 @@
 *.lck
-tmp
+tmp/
+production/
+.history/
