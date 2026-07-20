@@ -39680,7 +39680,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH"
+		(property "Manufacturer" "MURATA"
 			(at 355.6 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39691,7 +39691,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0402B221K500NT"
+		(property "Manufacturer Part" "GRM1555C1H221JA01D"
 			(at 355.6 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39713,7 +39713,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C1530"
+		(property "Supplier Part" "C71693"
 			(at 355.6 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -39724,7 +39724,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1530"
+		(property "LCSC Part #" "C71693"
 			(at 355.6 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -40757,7 +40757,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH"
+		(property "Manufacturer" "MURATA"
 			(at 316.23 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -40768,7 +40768,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0402B221K500NT"
+		(property "Manufacturer Part" "GRM1555C1H221JA01D"
 			(at 316.23 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -40790,7 +40790,7 @@
 				)
 			)
 		)
-		(property "Supplier Part" "C1530"
+		(property "Supplier Part" "C71693"
 			(at 316.23 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -40801,7 +40801,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1530"
+		(property "LCSC Part #" "C71693"
 			(at 316.23 156.21 0)
 			(hide yes)
 			(show_name no)

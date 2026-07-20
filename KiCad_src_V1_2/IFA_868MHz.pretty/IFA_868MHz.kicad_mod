@@ -1,0 +1,100 @@
+(footprint "IFA_868MHz"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "db46e966-370d-41e9-b3d4-6b6d323a897e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "IFA_868MHz"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "16d8805d-9cf6-4b3f-b012-75daa4fdf75c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04a9d2c7-f897-4add-bf3d-d2e4582bc263")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1df8cf6e-75d0-4216-b4a8-1f8fa3db0640")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy -6 -20) (xy -7 -20) (xy -7 0) (xy -6 0) (xy -6 -19) (xy -1 -19) (xy -1 0) (xy 1 0) (xy 1 -19)
+			(xy 5 -19) (xy 5 -8) (xy 11 -8) (xy 11 -19) (xy 15 -19) (xy 15 -8) (xy 21 -8) (xy 21 -19) (xy 25 -19)
+			(xy 25 -8) (xy 31 -8) (xy 31 -19) (xy 35 -19) (xy 35 -3) (xy 36 -3) (xy 36 -20) (xy 30 -20) (xy 30 -9)
+			(xy 26 -9) (xy 26 -20) (xy 20 -20) (xy 20 -9) (xy 16 -9) (xy 16 -20) (xy 10 -20) (xy 10 -9) (xy 6 -9)
+			(xy 6 -20) (xy -1 -20) (xy -6 -20)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "cbb9f720-2312-4836-b7fc-3f84aad22169")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fc98ed4d-0d5c-43e8-b415-ceb927771ea3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 -1)
+		(size 2 2)
+		(layers "F.Cu")
+		(uuid "884d11b0-c681-48b9-bed0-c9b32c9b220c")
+	)
+
+	(pad "2" smd rect
+		(at -6.5 -0.5)
+		(size 1 1)
+		(layers "F.Cu")
+		(uuid "d5e5e0d4-b6bc-4c32-acff-faaba9affdc6")
+	)
+	(embedded_fonts no)
+)
